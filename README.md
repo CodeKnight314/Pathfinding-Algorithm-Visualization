@@ -1,7 +1,7 @@
 # Path Finding Algorithm Visualization
 
 ## Overview:
-This repository demonstrates two main pathfinding algorithms: A* and Dijkstra. Both algorithms are tested on weighted and unweighted graphs that are generated randomly. Yes, the networkx has prebuilt path finding algorithms that can perform the same operation but it is important to understand the underlying concepts. The repository aims to provide an educational understanding of how these algorithms work in different scenarios, including the visual representation of the graph and the paths found. 
+This repository demonstrates two main pathfinding algorithms: A* and Dijkstra. Both algorithms are tested on weighted and unweighted graphs that are generated randomly. The repository aims to exercise educational understanding of how these algorithms work in different scenarios, including the visual representation of the graph and the paths found. 
 
 For ease of observation, graphs displayed on this github repository only shows weighted/unweighted graphs with 10-15 nodes. Of course, both pathfinding algorithms can be implemented on larger graphs if need be.
 
